@@ -1,6 +1,7 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 Due: Saturday, November 9, 2019 11:59 PM Local
 
+Project Website: https://lmchvz.github.io.
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
