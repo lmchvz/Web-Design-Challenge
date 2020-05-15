@@ -1,6 +1,6 @@
 # Web Design Challenge - Web Visualization Dashboard (Latitude)
 
-Project Website: https://lmchvz.github.io.
+Project Website: https://lmchvz.github.io/Web_Design-Challenge
 
 ## Background
 
