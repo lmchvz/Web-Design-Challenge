@@ -11,6 +11,8 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 - HTML 
 - CSS 
 - Bootstrap
+- Python 
+- Pandas
 
 ### Link to Finished Project Site: 
 https://lmchvz.github.io/Web_Design-Challenge
