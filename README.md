@@ -8,10 +8,7 @@ The goal of the project was to create a website that utilizes HTML and CSS skill
 
 - HTML 
 - CSS 
-- Javascript
 - Bootstrap
-- D3.js library
-
 
 ### Link to Finished Project Site: 
 
